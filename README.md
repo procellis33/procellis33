@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Support or Contact
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](aleksey55121@gmail.com)
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](mailto:aleksey55121@gmail.com)
 
 <a href="https://procellis33.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
 <a href="https://www.linkedin.com/in/procellis33/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
