@@ -1,5 +1,5 @@
 ### Hi there! I'm Alexey
-👨‍💻 Software Engineer<br/>
+👨‍💻 Study program: Software Engineering<br/>
 👨‍🎓 CTU Faculty of Information Technology
 <!--
 **procellis33/procellis33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
