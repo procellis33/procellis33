@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,redux,vite,webpack,tailwind,postgres,git,github,gitlab,figma,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,redux,vite,webpack,tailwind,postgres,git,github,gitlab,figma,jest,c)](https://skillicons.dev)
 
 <br/>
 
